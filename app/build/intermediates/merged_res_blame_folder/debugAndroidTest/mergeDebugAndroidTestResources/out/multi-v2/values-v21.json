@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shubster.my_ekart.test.app-mergeDebugAndroidTestResources-1:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer\\Desktop\\Mobile_ID\\MobileID_21AUG2023\\MobileID\\gradle\\caches\\transforms-4\\03e656a7f5cd2471a5bad8d671576c34\\transformed\\core-1.6.1\\res\\values-v21\\values.xml",
+                    "from": {
+                        "startLines": "4,13",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,621",
+                        "endLines": "12,21",
+                        "endColumns": "8,8",
+                        "endOffsets": "620,1093"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,534",
+                        "endLines": "10,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "529,1006"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+com.shubster.my_ekart.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
